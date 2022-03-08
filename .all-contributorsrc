@@ -157,6 +157,16 @@
       "profile": "https://github.com/john-sharratt",
       "contributions": [
         "code"
+      ],
+    },
+    {
+      "login": "ilmanzo",
+      "name": "Andrea Manzini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1872816?v=4",
+      "profile": "http://ilmanzo.github.io",
+      "contributions": [
+        "code",
+        "test"
       ]
     }
   ]
